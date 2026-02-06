@@ -63,7 +63,7 @@ article:hover {
 }
 
 .hero-text h1 {
-    font-size: 64px;
+    font-size: 48px;
     text-decoration: underline;
 }
 
@@ -134,7 +134,7 @@ main {
 }
 
 .hero h1 {
-    font-size: 64px;
+    font-size: 48px;
     text-decoration: underline;
 }
 
@@ -174,7 +174,7 @@ main {
 }
 
 .beyond-text h2 {
-    font-size: 64px;
+    font-size: 48px;
     margin-bottom: 1.5rem;
     text-decoration: underline;
     color: white;
@@ -241,13 +241,13 @@ main {
     width: 80%;
     margin: 0 auto;
     padding: 4rem 0;
-    text-align: left; /* สำคัญ */
+    text-align: left;
 }
 
 .googlemap {
     display: inline-block;
     width: 50%;
-    height: 555px;
+    height: 759px;
     vertical-align: top;
     border: 0;
 }
@@ -265,13 +265,13 @@ main {
 }
 
 .map-info h1 {
-    font-size: 40px;
+    font-size: 48px;
     font-weight: 600;
     margin-bottom: 1.5rem;
 }
 
 .map-info p {
-    font-size: 15px;
+    font-size: 24px;
     line-height: 2.0;
     margin-bottom: 0.8rem;
     color: #444;
@@ -293,21 +293,21 @@ footer {
 }
 
 .footer-title {
-    font-size: 18px;
+    font-size: 22px;
     color: #fff;
     margin-bottom: 0.8rem;
     letter-spacing: 1px;
 }
 
 footer p {
-    font-size: 14px;
+    font-size: 18px;
     margin: 0.6rem 0;
     line-height: 1.6;
 }
 
 .footer-copy {
     margin-top: 1.2rem;
-    font-size: 13px;
+    font-size: 18px;
     color: #888;
 }
 
